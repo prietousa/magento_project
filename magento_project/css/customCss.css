@@ -1,0 +1,11 @@
+body#bg-img{
+	background:url(../imgs/bgi.jpg) no-repeat center fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+div.div-container{
+	background: rgba(255,255,255,0.8);
+	border-radius:10px;
+	margin-top:15vh;
+	padding:20px;
+}
